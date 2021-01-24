@@ -1,5 +1,5 @@
 baseURL = "https://blogs.signor.top/"
-title = "winter1"
+title = "winter"
 theme = "hugo-coder"
 languageCode = "ch"
 defaultContentLanguage = "ch"
