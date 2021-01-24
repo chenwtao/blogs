@@ -13,7 +13,7 @@ pygmentsCodeFencesGuessSyntax = true
 
 [params]
     author = "winter"
-    # description = "winter's personal website"
+    description = "winter's personal website"
     keywords = "blog,developer,personal"
     info = "Full Stack DevOps and Magician"
     avatarURL = "images/avatar.jpg"
