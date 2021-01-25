@@ -1,7 +1,7 @@
 +++
 title="yarn workspace"
 authors = ["winter"]
-date="2021-01-21 21:10:00"
+date="2021-01-21"
 +++
 
 项目地址:[workspace-demo](https://gitee.com/simod/notes/tree/master/workspace-demo)

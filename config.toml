@@ -32,7 +32,7 @@ pygmentsCodeFencesGuessSyntax = true
 
     rtl = false
 
-    dateFormat = "2006-01-02 15:04"
+    dateFormat = "2006-01-02"
 
     # Specify light/dark colorscheme
     # Supported values:
