@@ -20,11 +20,11 @@ git ls-remote   //列出远程所有tag
 ### 开发分支develop
 主分支用来发布大版本，日常开发分支我们使用develop，有人称为集成分支，来源于master，最终又合并到master
 
-`
+```
    git checkout -b develop 
    git checkout master 
    git merge merge develop //或者git merge --no-ff develop 后面在解答为什么使用 --no-ff
-`
+```
 
 那么，为什么使用--no-ff呢，暂时不讨论这个问题
 
@@ -34,7 +34,7 @@ git ls-remote   //列出远程所有tag
 - 预发布（release）分支
 - 修补bug（fixbug）分支
 
-#### 功能分支
+##### 功能分支
 一般从develop分离出来，开发完成又合并到master
 
 
