@@ -2,8 +2,9 @@
 title="nvm nrm 初探"
 authors = ["winter"]
 date="2021-01-22"
+draft=true
 +++
-```
+
 
 ### nvm
 
